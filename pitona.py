@@ -11,5 +11,5 @@ def visualize_image(image_path):
     plt.show()
 
 # Example usage:
-image_path = "example_image.jpg"  # Change this to the path of your image
+image_path = "image_go_brrr.jpg"  # Change this to the path of your image
 visualize_image(image_path)
